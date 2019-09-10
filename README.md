@@ -1,6 +1,6 @@
 Survival kit to work with Python, CI, OpenShift on Linux.
 
-1. Files and the file system
+1. [Files and the file system](file-system.md)
 2. Bash and working with the terminal 
 3. Processes
 3. Everyday git
