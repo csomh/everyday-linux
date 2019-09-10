@@ -8,32 +8,33 @@ Resources:
 ## Layout of the file system
 
 Understand absolute and relative paths.
-Commands: realpath
+
+Commands: `realpath`
 
 ## Moving around the file system
 
-Commands: pwd, cd
+Commands: `pwd`, `cd`
 
 ## Creating and deleting directories
 
-Commands: mkdir, rmdir, rm -r
+Commands: `mkdir`, `rmdir`, `rm -r`
 
 ## Creating and deleting files
 
-Commands: cat, echo, touch, redirection
+Commands: `cat`, `echo`, `touch`, `redirection`
 
 ## Copying and moving
 
-Commands: cp, mv, rsync
+Commands: `cp`, `mv`, `rsync`
 
 ## Making links
 
-Commands: ln
+Commands: `ln`
 
 ## Permissions
 
-Commands: ls, chmod
+Commands: `ls`, `chmod`
 
 ## Finding stuff
 
-Commands: ls, tree, find, grep, which, type, file, locate
+Commands: `ls`, `tree`, `find`, `grep`, `which`, `type`, `file`, `locate`
