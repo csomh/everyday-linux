@@ -5,22 +5,22 @@ Resources:
 
 ## Writing bash scripts
 
-References:
-* [Bash scripting quirks & safety tips by Julia Evans](https://jvns.ca/blog/2017/03/26/bash-quirks/)
+Resources:
+* [Bash scripting quirks & safety tips](https://jvns.ca/blog/2017/03/26/bash-quirks/) by Julia Evans
 
 ## Globbing
 
-References:
+Resources:
 * http://tldp.org/LDP/abs/html/globbingref.html
 
 ## I/O Redirection
 
-References:
+Resources:
 * https://www.tldp.org/LDP/abs/html/io-redirection.html
 
 ## Pipes
 
-References:
+Resources:
 * http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-4.html
 
 ## Exit codes
